@@ -13,8 +13,8 @@
 - [ ] [Objetos](#)
 - [ ] [Arrays](#)
 - [ ] [Funções](#)
-- [x] [Expressões Regulares](js-basic/regex.md)
-- [x] [Strict mode](js-basic/strict-mode.md)
+- [ ] [Expressões Regulares](js-basic/regex.md)
+- [ ] [Strict mode](js-basic/strict-mode.md)
 
 ## Javascript avançado
 
